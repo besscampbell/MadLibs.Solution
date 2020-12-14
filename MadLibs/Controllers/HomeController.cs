@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using Madlibs.Models;
+using MadLibs.Models;
 
 namespace MadLibs.Controllers
 {
